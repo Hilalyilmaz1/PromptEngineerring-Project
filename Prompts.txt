@@ -1,0 +1,33 @@
+***Projeye başlarken chatgptue yazdığım prompt:
+
+you are full stack developer who is working in Openai. You are so succesfull in your job. İn fact You are one of the best in the world at your job. You  know very well Html and Css. Now you are gonna help me create a persoonel website. This website is gonna about my professional life.I am junior computer enginner. Dont forget this when you are creating website.                                                          
+ This website contains information that I graduated from MIT University in 2020, did an internship as a data scientist at Pegasus and THY, currently works in the field of artificial intelligence at Aselsan, and has advanced knowledge of languages ​​such as Python, SQL, Java, JavaFx and SQL, Python, data. Let me also mention that I have certificates such as science and machine learning. Write all these as html and css code by categorizing them under regular and relevant headings.
+
+
+***Kendi ismime göre düzenlemesini istedim:
+
+Change your website name and e-mail address to Hilal Yılmaz annd write again  html code
+
+
+***Sitenin rengini değiştirmrsini  istedim:
+
+Now I want you to change the website color to gray and dark blue. and rewrite the css codes please.
+
+
+***Belgelerimi ve startup'ımla  ilgili bilgiler içib button eklmesini istedim:
+
+I want you to add a part about my startup in my website . Startup name is 'Futurist İdeas'. And write an interesting article about this initiative of mine. Also I wanna a tab called certificates where I can add my certificates. do these and rewrite html code for me please.
+
+
+***Startup'ımla ilgili görsel oluşturmasını istedim:
+
+Can you provide me with a visual for my new initiative called 'futuristic ideas'? This initiative is about technology and the future.
+
+
+***Web sitem için avatar oluşturmak istedim:
+
+Can you draw a female avatar with black short hair, light brown eyes and glasses, who is a computer engineer and entrepreneur interested in data science and artificial intelligence?
+
+p.s: Görselleri copilot aracılığıyla oluşturdum.
+
+
